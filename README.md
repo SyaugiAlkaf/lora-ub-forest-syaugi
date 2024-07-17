@@ -21,7 +21,7 @@ This structure enables seamless data flow from sensor readings to user interface
 - **Internal design of the gateway**: 
   ![Gateway Design](4.png)
 - **Location Scheme**: 
-  ![Location Scheme](5.png)
+  ![Location Scheme](5.jpg)
 
 ### Study Location and Data Collection
 This study is conducted in the UB Forest, Karangploso, characterized by its mountainous terrain and small community setup. The area experiences regular rainfall during the rainy season, surrounded by trees 10 to 30 meters tall. Data collection involves capturing sensor readings, end-node IDs, and gateway RSSI values, sent directly from the end-points to the server and clients.
